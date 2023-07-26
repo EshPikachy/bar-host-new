@@ -1,0 +1,31 @@
+.pagination_button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  .pagIsActive {
+    background-color: rebeccapurple;
+    display: inline-block;
+    padding: 5px 10px;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  .pagination_button:hover {
+    background-color: rgb(119, 100, 137);
+    transition: 0.6s;
+  }
+
+
