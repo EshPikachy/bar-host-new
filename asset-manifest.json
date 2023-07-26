@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bar-host-new/static/css/main.d7899759.css",
+    "main.js": "/bar-host-new/static/js/main.07a963ad.js",
+    "index.html": "/bar-host-new/index.html",
+    "main.d7899759.css.map": "/bar-host-new/static/css/main.d7899759.css.map",
+    "main.07a963ad.js.map": "/bar-host-new/static/js/main.07a963ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7899759.css",
+    "static/js/main.07a963ad.js"
+  ]
+}
